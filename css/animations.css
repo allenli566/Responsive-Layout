@@ -1,0 +1,19 @@
+
+.product-item-done{
+    transform: scale(1.02);
+    transition: all 1s;
+}
+
+.fadeInt{
+    opacity: 1;
+    transition: all 1s;
+}
+
+
+.fadeOut{
+    opacity:0;
+    transition: all 1s;
+}
+
+
+

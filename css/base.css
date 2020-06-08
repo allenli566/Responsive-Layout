@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 1600px;
+    margin: 0 auto;
+}
+
+body {
+    font-size: 15px;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    display: block;
+    font-size: 14px;
+    color: #363636;
+    text-decoration: none;
+}
+/* a:hover {
+    color: #1428a0;
+} */
+
+img {
+    vertical-align: top;
+    width: 100%;
+    border: none;
+}
+
+.fl{
+    float: left;
+}
+
+
